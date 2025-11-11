@@ -34,28 +34,23 @@ Código Python:
 
  PENSAMIENTO ALGORÍTMICO – UNIDAD 1
  
-# ----------- VARIABLES Y TIPOS DE DATOS -----------
-# Una variable almacena información que puede cambiar.
+
 nombre = "Jerónimo"       # Tipo de dato: string (texto)
 edad = 19              # Tipo de dato: entero (int)
 altura = 1.60          # Tipo de dato: flotante (float)
 es_estudiante = True    # Tipo de dato: booleano (True/False)
 
-# ----------- OPERADORES -----------
-# Operadores matemáticos
 suma = edad + 8         # suma
 resta = edad - 4        # resta
 multiplicacion = edad * 3
 division = edad / 3
 
-# Operadores de comparación
+
 mayor_edad = edad >= 18   # devuelve True o False
 
-# Operadores lógicos
+
 puede_entrar = mayor_edad and es_estudiante  # True si ambas condiciones son verdaderas
 
-# ----------- FUNCIONES -----------
-# Una función es un bloque de código reutilizable que realiza una tarea.
 
 def saludar(nombre_usuario):
     """
@@ -70,13 +65,13 @@ def calcular_promedio(n1, n2, n3):
     promedio = (n1 + n2 + n3) / 3
     return promedio
 
-# ----------- EJECUCIÓN DEL PROGRAMA -----------
+
 saludar(nombre)  # Llamamos la función saludar
 
 promedio_notas = calcular_promedio(4.5, 3.8, 5.0)
 print("El promedio de tus notas es:", promedio_notas)
 
-# Usamos una condición lógica
+
 if mayor_edad:
     print("Eres mayor de edad.")
 else:
@@ -84,7 +79,7 @@ else:
 
 print("¿Puedes entrar al laboratorio?:", puede_entrar)
 
-# Información sobre hardware/software (solo texto para explicar)
+
 print("\nHARDWARE es la parte física del computador.")
 print("SOFTWARE es el conjunto de programas que ejecuta el hardware.")
 print("Un LENGUAJE DE PROGRAMACIÓN permite dar instrucciones a la computadora.")
@@ -104,6 +99,7 @@ Relación con los conce
 Reflexión:
 En la primera unidad aprendí como los programas se construyen a partir de instrucciones simples y lógicas y como el pensamiento algorítmico nos ayuda a resolver problemas paso a paso. 
 Me pareció interesante como algo tan simple como una variable puede ser la base para construir proyectos mucho más complejos.
+
 
 
 
