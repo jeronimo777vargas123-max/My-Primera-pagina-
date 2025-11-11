@@ -83,7 +83,8 @@ print("¿Puedes entrar al laboratorio?:", puede_entrar)
 print("\nHARDWARE es la parte física del computador.")
 print("SOFTWARE es el conjunto de programas que ejecuta el hardware.")
 print("Un LENGUAJE DE PROGRAMACIÓN permite dar instrucciones a la computadora.")
-✅ Qué muestra este código:
+
+el codigo muestra
 
 Variables y diferentes tipos de datos
 
@@ -102,6 +103,7 @@ Me pareció interesante como algo tan simple como una variable puede ser la base
 
 Referencias 
 https://chatgpt.com/c/69128ec7-1cdc-8332-a781-501d9a9c4485
+
 
 
 
