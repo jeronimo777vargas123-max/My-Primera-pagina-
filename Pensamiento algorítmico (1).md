@@ -100,6 +100,11 @@ Reflexión:
 En la primera unidad aprendí como los programas se construyen a partir de instrucciones simples y lógicas y como el pensamiento algorítmico nos ayuda a resolver problemas paso a paso. 
 Me pareció interesante como algo tan simple como una variable puede ser la base para construir proyectos mucho más complejos.
 
+Referencias 
+https://chatgpt.com/c/69128ec7-1cdc-8332-a781-501d9a9c4485
+
+
+
 
 
 
