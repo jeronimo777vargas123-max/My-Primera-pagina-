@@ -41,26 +41,39 @@ Permite hacer operaciones matemáticas, comparaciones y lógicas
 Operadores aritméticos
 
 + suma
+  
 - resta
+  
 * multiplicación
+  
 / división
+
 // división entera
+
 % residuo
+
 ** potencia
 
  Operadores de comparación
 
 == igual
+
 != diferente
+
 > mayor
+
 < menor
+
 >= mayor o igual
+
 <= menor o igual
 
 Operadores lógicos
 
 and
+
 or
+
 not
 
 Funciones:
@@ -72,6 +85,7 @@ Me pareció interesante como algo tan simple como una variable puede ser la base
 
 Referencias 
 https://chatgpt.com/c/69128ec7-1cdc-8332-a781-501d9a9c4485
+
 
 
 
