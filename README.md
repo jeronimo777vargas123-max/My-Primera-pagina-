@@ -13,5 +13,7 @@ Me interesa el desarrollo web, la inteligencia artificial y la automatización d
 Proyectos destacados:
 
 
+imagenes complementarias de la tortuga 
+
 
 
