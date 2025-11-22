@@ -97,7 +97,8 @@ Referencias
 https://chatgpt.com/c/69128ec7-1cdc-8332-a781-501d9a9c4485
 
 
-<img width="1202" height="688" alt="image" src="https://github.com/user-attachments/assets/6bb996d6-61b1-44ac-8daa-3594ec5ee278" />
+
+
 
 
 
