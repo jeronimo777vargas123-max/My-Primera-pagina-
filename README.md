@@ -13,9 +13,9 @@ Me interesa el desarrollo web, la inteligencia artificial y la automatización d
 Proyectos destacados:
 
 Pensamiento algoritmico unidad 1 
-(My-Primera-pagina-/Pensamiento algorítmico (1).md)
+(/Pensamiento algorítmico (1).md)
 
-tortuga (My-Primera-pagina-/Turtle actividad 2)
+tortuga (/Turtle actividad 2)
 
 imagenes complementarias de la tortuga 
 
