@@ -21,6 +21,8 @@ https://github.com/jeronimo777vargas123-max/My-Primera-pagina-/blob/main/tarea%2
 
 ````
 
+Imagenes complementarias de turtle.
+
 ````
 
 https://github.com/jeronimo777vargas123-max/My-Primera-pagina-/blob/main/Captura%20de%20pantalla%202025-11-21%20211036.png
