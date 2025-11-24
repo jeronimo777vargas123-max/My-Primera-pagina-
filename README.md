@@ -1,6 +1,6 @@
 ###                                    ¡Hola! Soy Jerónimo Zapata Vargas
 
-     >Soy estudiante de Ingeniería en Desarrollo de Software en la IUDIGITAL.
+     >                 Soy estudiante de Ingeniería en Desarrollo de Software en la IUDIGITAL.
 
 
 
