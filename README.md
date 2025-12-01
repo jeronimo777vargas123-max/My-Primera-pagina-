@@ -19,6 +19,8 @@ https://github.com/jeronimo777vargas123-max/My-Primera-pagina-/blob/main/Turtle%
 
 https://github.com/jeronimo777vargas123-max/My-Primera-pagina-/blob/main/tarea%202%20tortuga.py
 
+https://github.com/jeronimo777vargas123-max/My-Primera-pagina-/blob/main/turtle%20actividad%20corregida
+
 ````
 
 *Imagenes complementarias de turtle...*
