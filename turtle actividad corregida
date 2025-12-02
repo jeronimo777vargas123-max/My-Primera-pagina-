@@ -6,11 +6,11 @@ t.pencolor("blue")
 t.pensize(3)
 
 def adelante():
-    pasos = int(input("Ingrese el número de pasos hacia adelante: "))
+    pasos = int(input("5 pasos hacia adelante: "))
     t.forward(pasos)
 
 def abajo():
-    pasos = int(input("Ingrese el número de pasos hacia abajo: "))
+    pasos = int(input("5 pasos hacia abajo: "))
     t.right(90)
     t.forward(pasos)
     t.left(90)
