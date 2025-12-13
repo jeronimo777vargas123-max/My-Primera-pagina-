@@ -21,6 +21,11 @@ https://github.com/jeronimo777vargas123-max/My-Primera-pagina-/blob/main/tarea%2
 
 https://github.com/jeronimo777vargas123-max/My-Primera-pagina-/blob/main/turtle%20actividad%20corregida
 
+tortuga 
+
+https://github.com/jeronimo777vargas123-max/My-Primera-pagina-/blob/main/Pensamiento%20algor%C3%ADtmico%20(1).md
+
+
 ````
 
 *Imagenes complementarias de turtle...*
