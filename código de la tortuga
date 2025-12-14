@@ -1,0 +1,21 @@
+tortuga = "🐢"
+espacios = ""
+
+def adelante(pasos):
+    global espacios
+    print(espacios + "_ " * pasos)
+    espacios += "  " * pasos
+
+def abajo(pasos):
+    for i in range(pasos - 1):
+        print(espacios + "|")
+    print(espacios + tortuga)
+
+escalones = int(input("Escalones: "))
+pasos_adelante = int(input("Pasos adelante: "))
+pasos_abajo = int(input("Pasos abajo: "))
+
+for i in range(escalones):
+    adelante(pasos_adelante)
+    abajo(pasos_abajo)
+
