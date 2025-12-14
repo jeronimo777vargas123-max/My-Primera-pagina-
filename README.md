@@ -22,6 +22,10 @@ https://github.com/jeronimo777vargas123-max/My-Primera pagina-/blob/main/c%C3%B3
 Tarea final:  
 https://github.com/jeronimo777vargas123-max/My-Primera-pagina-/blob/main/tarea3.md
 
+https://github.com/jeronimo777vargas123-max/Jeronimo-Zapata/blob/main/c%C3%B3digo%20de%20la%20actividad%203
+
+https://github.com/jeronimo777vargas123-max/Jeronimo-Zapata/blob/main/Tarea%203%20parte%202
+
 ````
 
 *Imagenes complementarias de turtle...*
