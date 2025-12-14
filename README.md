@@ -32,43 +32,7 @@ https://github.com/jeronimo777vargas123-max/My-Primera-pagina-/blob/main/Captura
 https://github.com/jeronimo777vargas123-max/My-Primera-pagina-/blob/main/Captura%20de%20pantalla%202025-11-21%20211321.png
 
 ````
-Contents
-📱 Contact
-🤜🤛 Group
-👨 Social
-🛒 Store
-💻 OS
-📝 Blog
-🎞 Streaming
-🚀 Skills
-🔔 Tests
-💻 Workspace Spec
-🎮 Games
-❤ Funding
-🎶 Sound
-🍔 Food
-📊 Analytics
-🤖 Artificial Intelligence
-🔗 Blockchain
-☁ Cloud
-💲 Cryptocurrency
-⚡ Database
-🖍 Design
-📚 Education
-🌐 ETL
-👩‍💻 IDE
-🔌 IDE Plugin
-🧐 Linters
-📱 Mobile Frameworks
-👨‍💻 Office
-⚙️ ORM
-💡 Prototyping Platforms
-🔒 Security Platforms
-💻 Terminal
-🌐 Web Browsers
-🥅 Work/Jobs
-⏱️ Workflow Platforms
-🚗🚗Car
+
 🎨🎨Designer
 Maintained
 📈📈Website Stats
