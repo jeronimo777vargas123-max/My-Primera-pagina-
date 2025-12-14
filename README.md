@@ -13,11 +13,14 @@
 *Proyectos destacados...*
 
 ````
+notas de clase:
 https://github.com/jeronimo777vargas123-max/My-Primera-pagina-/blob/main/Pensamiento%20algor%C3%ADtmico%20(1).md
 
-https://github.com/jeronimo777vargas123-max/My-Primera-pagina-/blob/main/c%C3%B3digo%20de%20la%20tortuga
+Tarea de la tortuga: 
+https://github.com/jeronimo777vargas123-max/My-Primera pagina-/blob/main/c%C3%B3digo%20de%20la%20tortuga
 
- https://github.com/jeronimo777vargas123-max/My-Primera-pagina-/blob/main/tarea3.md
+Tarea final:  
+https://github.com/jeronimo777vargas123-max/My-Primera-pagina-/blob/main/tarea3.md
 
 ````
 
