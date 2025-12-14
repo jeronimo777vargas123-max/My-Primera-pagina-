@@ -4,6 +4,7 @@ en esta ultima entrega veremos como convertir el codigo de la actividad 2 en en 
 
 ""da crick en el siguiente enlace para ver la version funcional""
 
+https://github.com/jeronimo777vargas123-max/Evoluci-n-de-Mini-Turtle/blob/main/MINI-TURTLE
 
 ""da crick en el siguiente enlace para ver la version orientada (POO)""
 
