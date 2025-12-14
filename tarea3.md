@@ -10,3 +10,10 @@ https://github.com/jeronimo777vargas123-max/Evoluci-n-de-Mini-Turtle/blob/main/M
 
 https://github.com/jeronimo777vargas123-max/Versi-n-Orientada-a-Objetos-POO-/blob/main/MINI-TURTLE
 
+Imagenes complementarias de la version funcion 
+
+
+imagenes copmplementarias de la version orientada (POO)
+
+
+
