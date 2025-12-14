@@ -6,9 +6,15 @@ en esta ultima entrega veremos como convertir el codigo de la actividad 2 en en 
 
 https://github.com/jeronimo777vargas123-max/Evoluci-n-de-Mini-Turtle/blob/main/MINI-TURTLE
 
+aplica Programación Orientada a Objetos mediante la clase `Tortuga`,
+eliminando variables globales y permitiendo crear múltiples objetos independientes
+
 *da crick en el siguiente enlace para ver la version orientada (POO)*
 
 https://github.com/jeronimo777vargas123-max/Versi-n-Orientada-a-Objetos-POO-/blob/main/MINI-TURTLE
+
+esta actividad  aplica Programación Orientada a Objetos mediante la clase "Tortuga", eliminando variables globales y permitiendo crear múltiples objetos independientes
+
 
 # Imagenes complementarias de la version funcion 
  
@@ -19,5 +25,7 @@ https://github.com/jeronimo777vargas123-max/Jeronimo-Zapata/blob/main/Captura%20
 # imagenes copmplementarias de la version orientada (POO)
 
 https://github.com/jeronimo777vargas123-max/Jeronimo-Zapata/blob/main/Captura%20de%20pantalla%202025-12-14%20162421.png
+
+
 
 
