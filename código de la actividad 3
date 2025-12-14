@@ -1,0 +1,30 @@
+tortuga = "🐢"
+posicion_x = 0
+
+def adelante(pasos):
+    global posicion_x
+    print(" " * posicion_x + "_ " * pasos)
+    posicion_x += pasos * 2
+
+def abajo(pasos):
+    for _ in range(pasos - 1):
+        print(" " * posicion_x + "|")
+    print(" " * posicion_x + tortuga)
+
+def reiniciar():
+    global posicion_x
+    posicion_x = 0
+
+
+escalones = int(input("Escalones: "))
+pasos_adelante = int(input("Pasos adelante: "))
+pasos_abajo = int(input("Pasos abajo: "))
+
+for _ in range(escalones):
+    adelante(pasos_adelante)
+    abajo(pasos_abajo)
+
+reiniciar()
+
+adelante(5)
+abajo(3)
